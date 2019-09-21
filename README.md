@@ -3,7 +3,7 @@ a simple login page done in ReactJS
 
 Correct username and password to login are:
 
-username: Mansi
+username: Mansi  
 password: Neami
 
 # Installation Guide
